@@ -1,0 +1,11 @@
+{
+  "name": "@537/config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "node test/runner.js"
+  },
+  "author": "kiernan <kiernan@537.io> (http://537.io/)",
+  "license": "MIT"
+}
