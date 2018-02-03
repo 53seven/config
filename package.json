@@ -7,5 +7,8 @@
     "test": "node test/runner.js"
   },
   "author": "kiernan <kiernan@537.io> (http://537.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@537/spawn": "0.0.5"
+  }
 }
