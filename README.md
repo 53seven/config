@@ -1,6 +1,8 @@
 @537/config
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/53seven/config.svg)](https://greenkeeper.io/)
+
 [![build status](https://travis-ci.org/53seven/config.svg)](https://travis-ci.org/53seven/config)
 
 
