@@ -10,5 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "@537/spawn": "0.0.5"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.0"
   }
 }
